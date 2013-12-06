@@ -1,0 +1,25 @@
+{
+  "name": "urbanorchard",
+  "version": "0.0.1",
+  "description": "Mapping Fruite Trees in the city of Detroit",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [],
+  "author": "Alan Languirand <alan@13protons.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.1.x",
+    "ejs": "~0.8.x",
+    "less-middleware": "~0.1.9",
+    "firebase": "~0.6.22",
+    "passport": "~0.1.17",
+    "passport-facebook": "~1.0.2"
+  },
+  "engines": {
+    "node": ">= 0.10.x",
+    "npm": ">= 1.2.0"
+  }
+}
